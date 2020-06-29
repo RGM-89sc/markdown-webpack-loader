@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RGM-89sc/markdown-webpack-loader.git"
+  },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/RGM-89sc"
   },
@@ -14,5 +18,9 @@
   "dependencies": {
     "loader-utils": "^2.0.0",
     "marked": "^1.1.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/RGM-89sc/markdown-webpack-loader/issues"
+  },
+  "homepage": "https://github.com/RGM-89sc/markdown-webpack-loader#readme"
 }
