@@ -36,4 +36,5 @@ interface options {
 ```
 
 `interceptor` A custom function for do something before parse markdown string.You can call the parser function by hand and return the finall data(string or object) there.
+
 `parseOptions` Your marked [options](https://marked.js.org/#/USING_ADVANCED.md#options)
