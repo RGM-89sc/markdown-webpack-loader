@@ -1,3 +1,9 @@
+markdown-webpack-loader
+===============
+
+A markdown loader for webpack.
+
+
 ## Example
 
 ```javascript
@@ -9,7 +15,7 @@
         test: /\.md$/,
         use: [
           {
-            loader: 'markdown-webpack-loader',
+            loader: '@rgm-89sc/markdown-webpack-loader',
             options: {/* ... */}
           }
         ]
