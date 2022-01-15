@@ -17,7 +17,7 @@
   "license": "ISC",
   "dependencies": {
     "loader-utils": "^2.0.0",
-    "marked": "^1.1.0"
+    "marked": "^4.0.10"
   },
   "bugs": {
     "url": "https://github.com/RGM-89sc/markdown-webpack-loader/issues"
